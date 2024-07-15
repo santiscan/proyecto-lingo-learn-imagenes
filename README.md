@@ -1,1 +1,1 @@
-*Imagenes para el proyecto Lingo Learn*
+**Imagenes para el proyecto Lingo Learn**
